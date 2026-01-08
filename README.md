@@ -35,17 +35,24 @@ Graphs are paired with insights:
 
 📖 Narrative Additions
 What I Learned
+
 - Cleaning messy string-formatted numbers is critical before analysis.
 - Correlation analysis can quickly validate whether metrics are redundant or complementary.
 - Visualization is most powerful when paired with interpretation.
+
 What Surprised Me
+
 - All four valuation metrics (VT1–VT4) were highly correlated — I expected more variation.
 - Some wards had extreme outliers, hinting at unique local conditions.
+  
 Limitations
+
 - Dataset is descriptive only; it cannot explain why prices vary.
 - No temporal data, so trends over time cannot be analyzed.
 - Missing external factors (policy, infrastructure, demand) limit causal insights.
+  
 What I Would Do Next
+
 - Merge with urban planning data (new roads, metro lines).
 - Add demographic/economic indicators to explain why hotspots exist.
 - Explore predictive modeling for future land price trends.
