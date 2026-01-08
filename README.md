@@ -6,6 +6,10 @@
 This project explores land valuation data across Hanoi’s districts and wards for the year 2025.  
 It demonstrates **data cleaning**, **visualization**, and **exploratory analysis** using Python, pandas, matplotlib, and seaborn.
 
+🎯 Objective
+The goal of this analysis is to identify patterns and disparities in land prices across Hanoi districts and wards, and to assess how valuation tiers (VT1–VT4) relate to each other and to geographic location.
+
+
 ## 📂 Dataset
 - **File**: `Land Price in Hanoi 2025 new.csv`
 - **Columns**:
@@ -46,6 +50,13 @@ What I Would Do Next
 - Add demographic/economic indicators to explain why hotspots exist.
 - Explore predictive modeling for future land price trends.
 
+
+❓ Key Questions
+- Do land prices vary significantly across districts and wards?
+- Are higher valuation tiers (VT1–VT4) meaningfully different, or largely redundant?
+- Are extreme land prices isolated or clustered in specific locations?
+
+
 🏁 Conclusion + Next Steps
 This project cleaned and visualized Hanoi’s 2025 land price dataset, uncovering correlations, distributions, and spatial disparities.
 Next steps include:
@@ -53,7 +64,9 @@ Next steps include:
 - Building an interactive dashboard (Streamlit) for ward/district exploration.
 - Positioning this work as a portfolio piece to showcase data cleaning, visualization, and storytelling skills.
 
+-This project demonstrates my ability to clean messy real-world data, extract insights through exploratory analysis, and communicate findings clearly using visual storytelling.
 
+-This analysis can support land investment decisions by highlighting districts and wards that appear undervalued or overpriced relative to their surrounding areas and valuation tiers.
 ## 🚀 How to Run
 1. Clone this repository
 2. Install dependencies:
